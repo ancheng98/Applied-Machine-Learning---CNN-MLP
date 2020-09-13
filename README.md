@@ -5,6 +5,7 @@ A project for my graduate-level machine learning course where we analyzed the pe
 You can find the writeup under "Analysis_of_CNN_and_MLP_on_CIFAR_10.pdf" (first file above). 
 
 Abstract
+
 Neural networks have recently demonstrated impressive
 classification performance on the CIFAR-10 dataset.
 In this paper, we illustrate the performance of two networks - the L-layer multilayer perceptron and the convolutional neural
